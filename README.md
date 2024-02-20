@@ -1,0 +1,1 @@
+This project was purely to do some stat testing on likelihood of a gloomhaven boss doing a particular action, relative to other actions, some of which have a shuffle tag on them.
